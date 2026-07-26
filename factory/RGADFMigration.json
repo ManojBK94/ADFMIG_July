@@ -1,0 +1,15 @@
+{
+	"name": "RGADFMigration",
+	"properties": {
+		"trustModeClaimForMi": {
+			"value": "Disabled",
+			"editable": true
+		}
+	},
+	"location": "centralindia",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "65e9b459-69c4-4f50-8d5e-5d55aa73b2dd",
+		"tenantId": "2af96d82-f221-4feb-b156-011d52e970b7"
+	}
+}
